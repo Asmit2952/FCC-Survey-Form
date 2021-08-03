@@ -1,4 +1,4 @@
-# FCC-Tribute-Page
+# FCC-Survey-Form
 
 Created a basic survey form as a part of project under freecodecamp "Responsive Web Design Course"
 
